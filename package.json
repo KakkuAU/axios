@@ -1,5 +1,5 @@
 {
-  "name": "axios",
+  "name": "@kakku/axios",
   "version": "0.19.0",
   "description": "Promise based HTTP client for the browser and node.js",
   "main": "index.js",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/axios/axios.git"
+    "url": "https://github.com/KakkuAU/axios.git"
   },
   "keywords": [
     "xhr",
@@ -25,12 +25,12 @@
     "promise",
     "node"
   ],
-  "author": "Matt Zabriskie",
+  "author": "Yang He <yang.he@kakku.co>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/axios/axios/issues"
+    "url": "https://github.com/KakkuAU/axios/issues"
   },
-  "homepage": "https://github.com/axios/axios",
+  "homepage": "https://github.com/KakkuAU/axios",
   "devDependencies": {
     "bundlesize": "^0.17.0",
     "coveralls": "^3.0.0",
